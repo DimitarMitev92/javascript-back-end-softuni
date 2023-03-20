@@ -1,0 +1,23 @@
+[
+    {
+        "id": 0,
+        "name": "fluffy",
+        "description": "Some info",
+        "breed": "Ragdoll",
+        "image": "1.jpg"
+    },
+    {
+        "id": 1,
+        "name": "Bane",
+        "description": "Really bad cat!",
+        "breed": "British Shorthair",
+        "image": "2.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Kondio",
+        "description": "Biggest cat i ever seen!",
+        "breed": "Maine Coon",
+        "image": "3.jpg"
+    }
+]
