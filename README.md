@@ -8,7 +8,7 @@
 
 ---
 
-February Abo3t the course
+## About the course
 
 The course is **intensive** and aims to familiarize participants with the **development** of **server JavaScript** applications on the **Node.js** platform, using **Express.js** as a framework. During the training we will understand how to **create a server with Node.js**, we will learn the **server-client architecture** and how to make easy and fast **data-driven web** applications with Node. js, Express.js and MongoDB using all the tricks and tools.
 
