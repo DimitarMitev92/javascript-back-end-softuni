@@ -4,7 +4,8 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/7/76/Logo_Software_University_%28SoftUni%29_-_blue.png" 
   alt="softuni logo"
   style="position:relative; width:150px; padding:10px; margin: 0 auto;"
-  /
+  />
+  </div>
 
 ---
 
