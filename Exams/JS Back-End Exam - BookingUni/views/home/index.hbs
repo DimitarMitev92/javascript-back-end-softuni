@@ -1,0 +1,12 @@
+<section id='viewCatalog' class='background-img'>
+
+    <div class='added-hotels'>
+    {{#each hotels}}
+        {{>hotelHome}}
+    {{else}}
+   <div class="guest">
+                There are no Hotels found...
+            </div>
+    {{/each}}
+    </div>
+</section>
